@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Webdriver BiDi for Selenium.
+- 🔭 I’m currently working on Webdriver BiDi for Selenium and [appium-ios-remotexpc](https://github.com/appium/appium-ios-remotexpc) along with its xcuitest integration.
 - 👯 I’m looking to collaborate on anything and everything
 - 💬 Ask me about tech and programming
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/navin-chandra-b610b2144/)
